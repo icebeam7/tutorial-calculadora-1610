@@ -22,3 +22,7 @@ Este repositorio contiene un tutorial paso a paso para aprender a colaborar en G
 1. Abre la carpeta del proyecto en VS Code.  
 2. Si es necesario, ejecuta `npm install`.  
 3. Abre el archivo `index.html` en tu navegador o ejecuta `node calculadora.js`.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
